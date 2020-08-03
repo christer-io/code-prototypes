@@ -11,3 +11,6 @@ Rull ut: gcloud app deploy
 
 ## Node
 * brew install node
+* npm init
+* npm i express
+* npm i -D nodemon
