@@ -14,3 +14,6 @@ Rull ut: gcloud app deploy
 * npm init
 * npm i express
 * npm i -D nodemon
+
+## CORS
+https://cloud.google.com/storage/docs/configuring-cors#gsutil
