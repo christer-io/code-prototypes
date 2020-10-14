@@ -9,6 +9,8 @@ Installer script:
 
 Rull ut: gcloud app deploy 
 
+echo $PATH
+
 ## Node
 * brew install node
 * npm init
