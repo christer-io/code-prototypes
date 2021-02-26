@@ -8,6 +8,7 @@ Installer script:
 * ./google-cloud-sdk/bin/gcloud init
 
 Rull ut: gcloud app deploy 
+./google-cloud-sdk/bin/gcloud app deploy
 
 echo $PATH
 
