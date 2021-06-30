@@ -21,3 +21,8 @@ echo $PATH
 
 ## CORS
 https://cloud.google.com/storage/docs/configuring-cors#gsutil
+
+## React
+- react-icons
+- json-server
+
