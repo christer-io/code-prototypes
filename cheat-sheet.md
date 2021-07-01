@@ -23,6 +23,8 @@ echo $PATH
 https://cloud.google.com/storage/docs/configuring-cors#gsutil
 
 ## React
+- https://www.youtube.com/watch?v=w7ejDZ8SWv8
+- npx create-react-app {navn}
 - react-icons
 - json-server
 
