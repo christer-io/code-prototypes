@@ -13,7 +13,7 @@ Rull ut: gcloud app deploy
 echo $PATH
 
 # script
-find /math/ -type f > FilesWithPaths.txt; 
+find . -type f > ../files-all.txt
 
 ## Node
 * brew install node
