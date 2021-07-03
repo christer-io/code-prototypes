@@ -14,6 +14,7 @@ echo $PATH
 
 # script
 find . -type f > ../files-all.txt
+https://perishablepress.com/list-files-folders-recursively-terminal/
 
 ## Node
 * brew install node
