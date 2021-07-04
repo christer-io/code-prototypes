@@ -33,3 +33,5 @@ https://cloud.google.com/storage/docs/configuring-cors#gsutil
 - json-server
 - 
 
+Elastic Search
+- https://codeburst.io/how-to-build-great-react-search-experiences-quickly-8c69081f328d
