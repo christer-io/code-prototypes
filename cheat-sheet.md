@@ -37,4 +37,8 @@ Elastic Search
 - https://codeburst.io/how-to-build-great-react-search-experiences-quickly-8c69081f328d
 
 Mongodb
-- mongoimport --uri mongodb+srv://christer:{password}@oerdev.bqfcd.mongodb.net/edupix --collection collection --type csv --headerline --file concept.csv    
+- mongoimport --uri mongodb+srv://christer:{password}@oerdev.bqfcd.mongodb.net/edupix --collection collection --type csv --headerline --file concept.csv   
+Metadata
+* https://eyed3.readthedocs.io/en/latest/
+* https://exiftool.org/
+
