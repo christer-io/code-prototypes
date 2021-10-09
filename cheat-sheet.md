@@ -42,3 +42,5 @@ Metadata
 * https://eyed3.readthedocs.io/en/latest/
 * https://exiftool.org/
 
+## Next.js with Mongo template
+* https://www.mongodb.com/developer/how-to/nextjs-with-mongodb/
