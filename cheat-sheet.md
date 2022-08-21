@@ -1,6 +1,15 @@
 
 # Cheat sheet
 
+# Next.js and sanity
+- npx create-next-app@latest
+- npm i tailwindcss
+- npm i heroicons
+- npm i react-portable-text
+- npm i @sanity/image-url
+
+
+
 ## Gcloud
 Install: https://cloud.google.com/sdk/docs/quickstart-macos
 Installer script:
