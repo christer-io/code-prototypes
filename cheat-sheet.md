@@ -4,7 +4,7 @@
 # Next.js and sanity
 - npx create-next-app@latest
 - npm i tailwindcss
-- npm i heroicons
+- npm i @heroicons/react
 - npm i react-portable-text
 - npm i @sanity/image-url
 
